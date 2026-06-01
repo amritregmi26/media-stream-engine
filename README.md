@@ -1,0 +1,2 @@
+# Media Stream Engine
+Asynchronous Media Processing Pipeline. Built with FastAPI, Celery, and Redis. Features automated video transcoding via FFmpeg, decoupled worker queues, Postgres metadata storage, and simulated AWS S3 integration utilizing Boto3.
